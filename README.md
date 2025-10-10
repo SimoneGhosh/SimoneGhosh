@@ -1,6 +1,6 @@
 # 🐱 hellooo!
 
-i'm **Simone**, a full-stack developer studying **Systems Design Engineering @ University of Waterloo**.
+I'm **Simone**, a full-stack developer studying **Systems Design Engineering @ University of Waterloo**.
 
 currently seeking **Winter 2026 internships** where i can contribute to agile teams, build impactful products, and keep learning 🚀
 
