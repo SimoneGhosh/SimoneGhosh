@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simone Ghosh</h1>
 <h3 align="center">Building solutions to real problems: AI safety companion, classroom management, and options strategy tools. SYDE @ UWaterloo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simoneghosh&label=Profile%20views&color=0e75b6&style=flat" alt="simoneghosh" /> </p>
-
 - 🔭 I’m currently working on **callMe**
 
 - 🌱 I’m currently learning **React**
