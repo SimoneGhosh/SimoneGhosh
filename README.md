@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simone Ghosh</h1>
 <h3 align="center">Building solutions to real problems: AI safety companion, classroom management, and options strategy tools. SYDE @ UWaterloo</h3>
 
-- 🔭 I’m currently working on **callMe**
+- 🔭 I’m currently working on **Sentiment Analysis at WatAI**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://simoneghosh.vercel.app/](https://simoneghosh.vercel.app/)
 
