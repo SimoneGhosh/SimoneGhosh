@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simone Ghosh</h1>
-<h3 align="center">Building solutions to real problems: AI safety companion, classroom management, and options strategy tools. SYDE @ UWaterloo</h3>
-
-- 🔭 I’m currently working on **Sentiment Analysis at WatAI**
+<h3 align="center">SYDE @ UWaterloo</h3>
 
 - 🌱 I’m currently learning **GraphQL**
 
