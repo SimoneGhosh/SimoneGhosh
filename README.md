@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm Simone Ghosh</h1>
-<h3 align="center">SYDE @ UWaterloo</h3>
+## hi! i'm simone
 
-- 🌱 I’m currently learning **GraphQL**
+🎓 System Design Engineering @ University of Waterloo 
 
-- 👨‍💻 All of my projects are available at [https://simoneghosh.vercel.app/](https://simoneghosh.vercel.app/)
+🎯 Interested in applied mle, data systems, and system programming
 
-- 📫 How to reach me **s66ghosh@uwaterloo.ca**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gZVGXmR0kXMG-lgno1MNDJJX26b-CfQF/view?usp=sharing](https://drive.google.com/file/d/1gZVGXmR0kXMG-lgno1MNDJJX26b-CfQF/view?usp=sharing)
-
-- ⚡ Fun fact **I have a cat!**
-
-<h3 align="left">Connect with me :)</h3>
+📫 How to reach me s66ghosh@uwaterloo.ca
