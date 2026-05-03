@@ -2,6 +2,6 @@
 
 🎓 System Design Engineering @ University of Waterloo 
 
-🎯 Interested in applied mle, data systems, and system programming
+🎯 Interested in backend systems, fintech infra, and automotive software
 
 📫 How to reach me s66ghosh@uwaterloo.ca
